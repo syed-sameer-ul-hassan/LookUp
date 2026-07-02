@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/logo.bmp" alt="Zenith-Sentry Logo" width="600"/>
+</p>
+
+
 # LookUp
 
 **Professional Storage Intelligence & Directory Analysis Platform**
